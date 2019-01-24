@@ -1,0 +1,54 @@
+.header {
+    border-bottom: 1px solid black;
+}
+
+.footer {
+    height: 50px;
+    color: white;
+    background-color: #1a1a1a;
+}
+
+.content-list-group {
+    margin: 30px 20px 70px 20px;
+    border: 1px solid black;
+}
+
+.headline {
+    margin: 25px 1px 1px 1px;
+}
+
+.login-form {
+   padding: 30px 1px 40px 1px;
+   margin: 0 auto;
+}
+
+.transfer-form {
+   padding: 30px 1px 40px 1px;
+   margin: 0 auto;
+}
+
+.const-container {
+    height: 680px;
+}
+
+.center {
+    align-items: center;
+    align-content: center;
+}
+
+.item {
+    float: left;
+    width: 25%;
+}
+
+.balance {
+    margin: 50px 1px 1px 1px;
+}
+
+.button-2 {
+    float: right;
+}
+
+.red {
+    color :red
+}
